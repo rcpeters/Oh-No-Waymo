@@ -1,2 +1,8 @@
 # Oh-No-Waymo
 >Oh No Waymo! is a fun game inspired by the classic car spotting game "Punch Buggy" (or "Slug Bug"). It's a great way to keep kids entertained on long car rides, and helps them learn to identify self-driving cars!
+
+## Concept
+I was exploring how close I could get to having an LLM create a website by itself and decided to create an "official" website about a game I've started playing in our car while driving around San Francisco. I'm actually pretty impressed with how well Bard performed, and I'm likely to revisit the topic as LLMs improve.
+
+## Bard Converstation
+You can view the converstation [here](https://gemini.google.com/share/9ada579d16ad?hl=en). 
