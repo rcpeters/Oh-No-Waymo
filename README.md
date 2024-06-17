@@ -7,4 +7,4 @@ I was exploring how close I could get to having an LLM create a website by itsel
 A note about "Oh No": Even though "oh no" typically has a negative connotation, you'll find that in the course of gameplay, the Waymos will become more endearing. In fact, the game came from a place of Waymo apprehension, and now it's a delight to see them. 😍😍😍 
 
 ## Bard Converstation
-You can view the converstation [here](https://g.co/gemini/share/692099626cd2). 
+You can view the Bard converstation [here](https://g.co/gemini/share/692099626cd2). 
